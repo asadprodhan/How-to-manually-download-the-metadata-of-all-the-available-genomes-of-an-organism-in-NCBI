@@ -27,6 +27,18 @@
 
 <p align="center">
   <img 
+    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure1.png"
+ align="center" width=100% height=100% >   
+</p>
+<p align = center>
+Figure 1: Search your organism in the NCBI database.
+</p>
+
+
+
+
+<p align="center">
+  <img 
     src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure1.png”
  align="center" width=100% height=100% >   
 </p>
