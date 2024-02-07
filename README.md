@@ -52,6 +52,23 @@ Figure 1: Search your organism in the NCBI database.
 
 <br />
 
+<p align="center">
+  <img 
+    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure2.png"
+ align="center" width=60% height=60% >   
+</p>
+<p align = center>
+Figure 2: Select the metadata of your interest.
+</p>
+
+
+<br />
+
+
+
+
+<br />
+
 
 <p align="center">
   <img 
