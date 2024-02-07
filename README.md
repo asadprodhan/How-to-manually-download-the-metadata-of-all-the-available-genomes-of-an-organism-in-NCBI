@@ -66,69 +66,91 @@ Figure 2: Select the metadata of your interest.
 
 
 
-
-<br />
-
-
-<p align="center">
-  <img 
-    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure2.png”
- align="center" width=100% height=100% >   
-</p>
-<p align = center>
-Figure 2: Select the metadata of your interest.
-</p>
+- Select the metadata of your interest and apply (Fig. 3)
 
 
 <br />
 
-
-Select the metadata of your interest and apply (Fig. 3)
-
-
 <p align="center">
   <img 
-    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure3.png”
- align="center" width=100% height=100% >   
+    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure3.png"
+ align="center" width=60% height=60% >   
 </p>
 <p align = center>
 Figure 3: Available metadata.
 </p>
 
+
+<br />
+
+
+
 ### **Step 3: Download the metadata**
 
-Click on the Download tab as indicated by the red circle in Fig. 4
-Select Download Table from the drop-down menu
-Select Tab-separated values (TSV) format
-Click Download
+
+- Click on the Download tab as indicated by the red circle in Fig. 4
+
+
+- Select Download Table from the drop-down menu
+
+
+- Select Tab-separated values (TSV) format
+
+
+- Click Download
+
+
+<br />
 
 <p align="center">
   <img 
-    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure4.png”
- align="center" width=100% height=100% >   
+    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure4.png"
+ align="center" width=60% height=60% >   
 </p>
 <p align = center>
 Figure 4: Download the metadata.
 </p>
 
 
+<br />
+
+
+
 ### **Step 3: Download the metadata**
 
-A TSV file containing the metadata will be downloaded.
-You can open the TSV file in excel like Fig. 5.
 
+- A TSV file containing the metadata will be downloaded.
+
+
+- You can open the TSV file in excel like Fig. 5.
+
+
+<br />
 
 <p align="center">
   <img 
-    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure5.png”
- align="center" width=100% height=100% >   
+    src="https://github.com/asadprodhan/How-to-manually-download-the-metadata-of-all-the-available-genomes-of-an-organism-in-NCBI/blob/main/Figure5.png"
+ align="center" width=60% height=60% >   
 </p>
 <p align = center>
 Figure 5: Metadata sheet.
 </p>
 
 
-Now, you have an excel sheet containing the metadata of all the available genome sequences of Fusarium. You can sort out these information and short list the assembly numbers that you want download. See this tutorial on how to download genome sequences automatically: 
+<br />
+
+
+
+
+**Now, you have an excel sheet containing the metadata of all the available genome sequences of Fusarium.**
+
+
+**You can sort out these information and short list the assembly numbers that you want download.** 
+
+
+**See this tutorial on how to download genome sequences automatically:**
+
+
 
 https://github.com/asadprodhan/How-to-download-all-the-available-genome-sequences-of-an-organism-automatically
 
