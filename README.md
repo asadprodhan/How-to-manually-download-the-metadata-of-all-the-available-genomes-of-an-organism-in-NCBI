@@ -5,15 +5,25 @@
 
 
 <br />
-¬¬¬¬
+
+
 
 ### **Step 1: Search your organism in the NCBI database**
 
-Go to the NCBI website: https://www.ncbi.nlm.nih.gov/
-Search your organism as shown for Fusarium in the red rectangular box in Fig. 1
-The search results will be displayed under different categories (Fig. 1)
-Click on the Genomes database as indicated by the red hexagon in Fig. 1
 
+- Go to the NCBI website: https://www.ncbi.nlm.nih.gov/
+
+
+- Search your organism as shown for Fusarium in the red rectangular box in Fig. 1
+
+
+- The search results will be displayed under different categories (Fig. 1)
+
+
+- Click on the Genomes database as indicated by the red hexagon in Fig. 1
+
+
+<br />
 
 <p align="center">
   <img 
@@ -23,6 +33,10 @@ Click on the Genomes database as indicated by the red hexagon in Fig. 1
 <p align = center>
 Figure 1: Search your organism in the NCBI database.
 </p>
+
+
+<br />
+
 
 ### **Step 2: Select the metadata of your interest**
 
