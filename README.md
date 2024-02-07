@@ -40,9 +40,18 @@ Figure 1: Search your organism in the NCBI database.
 
 ### **Step 2: Select the metadata of your interest**
 
-You will see something like Fig. 2
-Tick the assembly box as indicated by the red circle in the Fig. 2
-Click on the **Select columns** tab as indicated by the red rectangle in the Fig. 2
+
+- You will see something like Fig. 2
+
+
+- Tick the assembly box as indicated by the red circle in the Fig. 2
+
+
+- Click on the **Select columns** tab as indicated by the red rectangle in the Fig. 2
+
+
+<br />
+
 
 <p align="center">
   <img 
@@ -52,6 +61,10 @@ Click on the **Select columns** tab as indicated by the red rectangle in the Fig
 <p align = center>
 Figure 2: Select the metadata of your interest.
 </p>
+
+
+<br />
+
 
 Select the metadata of your interest and apply (Fig. 3)
 
