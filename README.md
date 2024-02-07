@@ -116,7 +116,7 @@ Figure 4: Download the metadata.
 
 
 
-### **Step 3: Download the metadata**
+### **Step 3: Convert the TSV file into excel sheet**
 
 
 - A TSV file containing the metadata will be downloaded.
@@ -142,10 +142,11 @@ Figure 5: Metadata sheet.
 
 
 
-**Now, you have an excel sheet containing the metadata of all the available genome sequences of Fusarium.**
+> **Now, you have an excel sheet containing the metadata of all the available genome sequences of Fusarium.**
 
 
-**You can sort out these information and short list the assembly numbers that you want download.** 
+
+> **You can sort out these information and short list the assembly numbers that you want download.** 
 
 
 **See this tutorial on how to download genome sequences automatically:**
